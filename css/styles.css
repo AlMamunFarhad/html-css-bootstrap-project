@@ -3,16 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&family=Open+Sans:wght@300;400;600&family=Poppins:wght@400;500;600&family=Ubuntu:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&family=Open+Sans:wght@300;400;600&family=Poppins:wght@400;500;600&family=Roboto:wght@300;400;500;700&family=Ubuntu:wght@400;500;700&display=swap');
 
-
-/* font-family: 'Nunito', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Ubuntu', sans-serif; 
-font-family: 'Roboto', sans-serif;
-*/
-
-
-
 :root {
     --primary: #009CFF;
     --secondary: #777777;
@@ -439,7 +429,6 @@ a{
     top: 0;
 }
 
-
 /*** Testimonial ***/
 
 .testimonial-carousel .owl-item .testimonial-item img {
@@ -487,7 +476,6 @@ a{
     background: var(--primary);
     border: none;
 }
-
 
 /*** Footer ***/
 .footer p{
